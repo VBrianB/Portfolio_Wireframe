@@ -40,19 +40,19 @@
 
 O projeto é uma codificação de um UI Design que eu mesmo fiz. A ideia era criar uma estrutura simples que permitisse que toda a atenção fosse voltada ao conteúdo.
 
-- Design
-<br>
+### Design
+
 O Design foi pensado para criar um portifólio moderno com cores bem fortes para chamar a atenção, algumas coisas foram mudadas do Design para a codificação.
 <br>
 
 
-- Estrutura
-<br>
+### Estrutura
+
 Criada em HTML, assim como o Design foi pensando na melhor opção para que fosse responsivo e simples, a maior parte do site foi criado com CSS-FLEXBOX.
 <br>
 
-- Acessibilidade
-<br>
+### Acessibilidade
+
 O projeto está completamente responsivo, mas ainda precisa de alguns ajustes em algumas unidades de medidas para resoluções específicas.
 <br>
 
@@ -71,13 +71,12 @@ O projeto está completamente responsivo, mas ainda precisa de alguns ajustes em
 
 ## 🚀 Future
 
-- Código
-<br>
+### Código
 Penso em criar mais abas além da HOMEPAGE, mas isso deve acontecer caso eu resolvar recriar este site em react ou quem sabe em um futuro próximo 😋
 <br>
 <br>
-- Utilização
-<br>
+
+### Utilização
 O projeto me ajudou a melhorar a minha noção de UX/UI e claro, entender um pouco mais sobre wireframes. Com certeza meu portifólio será inspirado em alguns elementos deste projeto.
 
 
