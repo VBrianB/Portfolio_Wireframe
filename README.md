@@ -3,38 +3,9 @@
  <h3>Uma estrutura de modelo para a criação de um portifólio HTML5 | CSS3 | JavaScript</h3>
 
 <br>
-<br>
-<h3 align="center">Apresentation Area</h2> 
-<br>
-<img src="prints/print1.jpeg">
 
 
-<br/>
-<h3 align="center">Projects Area</h3> 
-<br>
-<img src="prints/print2.jpeg">
-
-<br />
-<h3 align="center"> Skills Area</h3>
-<br>
-<img src="prints/print3.jpeg">
-
-<br />
-<h3 align="center"> Contact Me</h3>
-<br>
-<img src="prints/print4.jpeg">
-
-<br />
-<h3 align="center">Companies </h3> 
-<br>
-<img src="prints/print5.jpeg">
-
-<br />
-<h3 align="center">Footer</h3> 
-<br>
-<img src="prints/print6.jpeg">
-
-<br />
+<img src="Portfolio-Print.gif" />
 
 ## 💡 Ideia
 
